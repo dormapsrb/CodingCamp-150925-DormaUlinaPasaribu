@@ -13,9 +13,3 @@ Aplikasi bisa langsung dicoba di sini:
 
 ## 🎯 Catatan  
 Project ini dibuat untuk memenuhi tugas **Coding Camp RevoU – 15 September 2025**.  
-
-## 👤 Author  
-[Dorma Ulina Pasaribu](https://github.com/dormapsrb)  
-
-## 📷 Preview  
-_(Sisipkan screenshot aplikasi di sini kalau ada)_  
